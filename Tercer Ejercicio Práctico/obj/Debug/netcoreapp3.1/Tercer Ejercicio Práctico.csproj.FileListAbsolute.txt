@@ -1,0 +1,13 @@
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\bin\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.exe
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\bin\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.deps.json
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\bin\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.runtimeconfig.json
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\bin\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.runtimeconfig.dev.json
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\bin\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.dll
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\bin\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.pdb
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.csprojAssemblyReference.cache
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.AssemblyInfoInputs.cache
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.AssemblyInfo.cs
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.csproj.CoreCompileInputs.cache
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.dll
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.pdb
+F:\programacion\Tercer Desafío Práctico\Tercer Ejercicio Práctico\Tercer Ejercicio Práctico\obj\Debug\netcoreapp3.1\Tercer Ejercicio Práctico.genruntimeconfig.cache
